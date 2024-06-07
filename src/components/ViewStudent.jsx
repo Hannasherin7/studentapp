@@ -5,10 +5,11 @@ export const ViewStudent = () => {
   return (
     <div>
         <NavBar></NavBar>
+        <h1><center>VIEW STUDENT DETAILS</center></h1>
         <div className="container">
             <div className="row">
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                    <div className="row g-3">
+                 <div className="row g-3">
                         <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
                         <div class="card">
                         <img src="https://t4.ftcdn.net/jpg/05/52/94/89/360_F_552948967_rfWkVCstu3t9ypSnpt2ZePVnuqoi6D6o.jpg" height="300pixel" class="card-img-top" alt="..."></img>
